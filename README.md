@@ -6,6 +6,7 @@
   - ☕ Limited Java
   - 🕸 HTML & Javascript
   - 👨‍💻 Bash
+  - 🐳 Docker
 - 🔍 I'm learning
   - Go
 
